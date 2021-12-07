@@ -108,14 +108,6 @@ translateY(-470%)
     margin-top: -1%;
 }
 
-/* .hover img{
-    width:25%;
-    position: relative;
-    right: -40%;
-    transform: translateY(-580%); 
-    background-color: hsl(178, 100%, 50%);
-    
-} */
 
 .hover img{
     position:absolute;
